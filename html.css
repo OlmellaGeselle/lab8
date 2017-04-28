@@ -1,0 +1,35 @@
+body{
+	font-size: 250%;
+}
+img{
+	margin-top: 25px;
+}
+.nba{
+	font-family: Cambria, Helvetica, sans-serif;
+	color: #0000ff;
+	font-style: italic;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-align: center;
+	color: gray;
+}
+#ec{
+	font-size: 45px;
+	font-family: Bookman Old Style, Helvetica, sans-serif;
+	color: #0000ff;
+	font-style: italic;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-align: center;
+	color: gray;
+}
+#wc{
+	font-size: 45px;
+	font-family: Bookman Old Style, Helvetica, sans-serif;
+	color: #0000ff;
+	font-style: italic;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-align: center;
+	color: gray;
+}
